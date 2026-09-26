@@ -186,4 +186,4 @@ Stated here rather than discovered by a reader:
 
 ## License
 
-[CC BY 4.0](LICENSE). Attribution: Ville Myllyniemi, 2026.
+[CC BY 4.0](LICENSE). Attribution: Sisuthros, 2026.
